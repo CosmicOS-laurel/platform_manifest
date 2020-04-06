@@ -793,6 +793,6 @@
   <include name="manifests/remove.xml" />
   <include name="manifests/extras.xml" />
   <include name="manifests/cosmic-os.xml" />
-  <include name="manifests/laurel.xml" />
+  <!--include name="manifests/laurel.xml" -->
 
 </manifest>
