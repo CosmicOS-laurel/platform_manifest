@@ -21,7 +21,7 @@ Branch Info
 Initialize the Repositories 
 ---------------------------
 
-    repo init -u https://github.com/Cosmic-OS/platform_manifest.git -b quasar-release
+    repo init -u https://github.com/CosmicOS-laurel/platform_manifest.git -b quasar-release
     repo sync --no-tags --no-clone-bundle --force-sync -c -j#
 
  -j# -Set jobs by just replacing # with what you wish
