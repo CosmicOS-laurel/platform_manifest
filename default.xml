@@ -474,7 +474,6 @@
   <project name="platform/hardware/nxp/nfc" path="hardware/nxp/nfc"/>
   <project name="platform/hardware/nxp/secure_element" path="hardware/nxp/secure_element"/>
   <project name="platform/hardware/qcom/audio" path="vendor/qcom/opensource/audio-hal/primary-hal"/>
-  <project name="platform/hardware/qcom/bootctrl" path="hardware/qcom/bootctrl"/>
   <project name="platform/hardware/qcom/display" path="hardware/qcom/display">
     <linkfile dest="vendor/qcom/defs/product-defs/vendor/display-product.mk" src="config/display-product.mk"/>
     <linkfile dest="vendor/qcom/defs/board-defs/vendor/display-board.mk" src="config/display-board.mk"/>
