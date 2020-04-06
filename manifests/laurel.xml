@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="laurel"
+          fetch="https://github.com/CosmicOS-laurel"
+          revision="quasar-release" />
+
+  <!-- Hardware repos -->
+  <project path="hardware/qcom/display" name="hardware_qcom_display" remote="laurel" />
+  <project path="hardware/qcom/bootctrl" name="hardware_qcom_bootctrl" remote="laurel" />
+ 	
+  <!-- Device Trees -->
+  <project path="device/xiaomi/laurel_sprout" name="device_xiaomi_laurel_sprout" remote="laurel" />
+
+  <!-- Vendor Tree -->
+  <project path="vendor/xiaomi/laurel_sprout" name="vendor_xiaomi_laurel_sprout" remote="laurel" />
+
+</manifest>
